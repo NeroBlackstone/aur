@@ -1,3 +1,6 @@
 [submodule "oxen-server-bin"]
 	path = oxen-server-bin
 	url = https://github.com/NeroBlackstone/oxen-server-bin.git
+[submodule "oxen-bin"]
+	path = oxen-bin
+	url = ssh://aur@aur.archlinux.org/oxen-bin.git
