@@ -4,3 +4,6 @@
 [submodule "oxen-bin"]
 	path = oxen-bin
 	url = https://github.com/NeroBlackstone/oxen-bin.git
+[submodule "numaplayer"]
+	path = numaplayer
+	url = https://github.com/NeroBlackstone/numaplayer.git
