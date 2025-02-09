@@ -3,4 +3,4 @@
 	url = https://github.com/NeroBlackstone/oxen-server-bin.git
 [submodule "oxen-bin"]
 	path = oxen-bin
-	url = ssh://aur@aur.archlinux.org/oxen-bin.git
+	url = https://github.com/NeroBlackstone/oxen-bin.git
