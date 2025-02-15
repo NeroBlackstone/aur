@@ -7,3 +7,6 @@
 [submodule "numaplayer"]
 	path = numaplayer
 	url = https://github.com/NeroBlackstone/numaplayer.git
+[submodule "owlplug-bin"]
+	path = owlplug-bin
+	url = https://github.com/NeroBlackstone/owlplug-bin.git
