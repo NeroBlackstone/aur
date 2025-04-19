@@ -1,12 +1,16 @@
 [submodule "oxen-server-bin"]
 	path = oxen-server-bin
 	url = https://github.com/NeroBlackstone/oxen-server-bin.git
+	branch = master
 [submodule "oxen-bin"]
 	path = oxen-bin
 	url = https://github.com/NeroBlackstone/oxen-bin.git
+	branch = master
 [submodule "numaplayer"]
 	path = numaplayer
 	url = https://github.com/NeroBlackstone/numaplayer.git
+	branch = master
 [submodule "owlplug-bin"]
 	path = owlplug-bin
 	url = https://github.com/NeroBlackstone/owlplug-bin.git
+	branch = master
