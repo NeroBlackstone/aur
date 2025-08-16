@@ -14,3 +14,6 @@
 	path = owlplug-bin
 	url = https://github.com/NeroBlackstone/owlplug-bin.git
 	branch = master
+[submodule "youzone"]
+	path = youzone
+	url = https://github.com/NeroBlackstone/youzone.git
