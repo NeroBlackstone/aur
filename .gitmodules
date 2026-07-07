@@ -17,3 +17,6 @@
 [submodule "youzone"]
 	path = youzone
 	url = https://github.com/NeroBlackstone/youzone.git
+[submodule "ricoh-mp2014-gdi"]
+	path = ricoh-mp2014-gdi
+	url = ssh://aur@aur.archlinux.org/ricoh-mp2014-gdi.git
