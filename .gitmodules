@@ -20,3 +20,11 @@
 [submodule "ricoh-mp2014-gdi"]
 	path = ricoh-mp2014-gdi
 	url = ssh://aur@aur.archlinux.org/ricoh-mp2014-gdi.git
+[submodule "neuralnote-bin"]
+	path = neuralnote-bin
+	url = https://github.com/NeroBlackstone/neuralnote-bin.git
+	branch = master
+[submodule "neuralnote-vst3"]
+	path = neuralnote-vst3
+	url = https://github.com/NeroBlackstone/neuralnote-vst3.git
+	branch = master
